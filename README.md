@@ -9,6 +9,14 @@ With what little parts I had to work with at the hackathon, I wound up making a 
 4. [LED lights](https://www.amazon.com/California-JOS-50-PCS-Colorful/dp/B0CR886L92?crid=35KC3WARLP5NI&dib=eyJ2IjoiMSJ9.b2ax0uReCWF-zaQ-YkPtSV4NlKZz6rD5G8ZFOfbHOZGBMIpN2-k3mbEcMnAkQoxWmpxT-lhnH0M6o7huaEjM6dvpfXtMPF8S-tR7NQI8icr_4PAYvPVoSF0xT3mVJEpnxqVeRekS6dD1fIDpaIDeyojuZ608tz9H8Sq-ogWpczGsr6kb4QJSvxr_0gWPIplXOZALzdGMvE4r7RlL-3vi1-kBA9xemvS6jW5IL2KuYuo.K_MOb3joXQZ_8-iJ3TKw_Hj2lIn4qCWUnXw_OeAhV00&dib_tag=se&keywords=led%2Blights%2Barduino&qid=1777420633&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=led%2Blights%2Barduino%2Caps%2C140&sr=8-3&th=1)
 5. Some jumper wires and resistors
 
+### My Configuration
+<img width="3024" height="4032" alt="IMG_0590" src="https://github.com/user-attachments/assets/3abcc4b2-9e77-45f5-a3dc-f8df8e8990aa" />
+
+### In the Box
+(As mentioned above, IDK why the PIR sensor only works when it only has the out pin connected. Also it can for some reason see through pretty much any gap, lol, so the box can confine it, but just a little, but that's still more control than none.)
+<img width="3024" height="4032" alt="IMG_0591" src="https://github.com/user-attachments/assets/ca6b28ca-a01c-4ee0-a148-191f568c2ad9" />
+
+
 ## Assembly
 1. Attach the arduino to the breadboard with ground and power
 2. Attach PIR sensor to ground, power, and one of the inputs. (For some reason mine only worked without ground and power, but I'm unsure how likely that'd happen again.)
